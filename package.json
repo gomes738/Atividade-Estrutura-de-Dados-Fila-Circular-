@@ -1,0 +1,15 @@
+{
+  "name": "fila-circula",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel source/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.1",
+    "typescript": "^5.9.3"
+  }
+}
