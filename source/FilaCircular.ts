@@ -101,8 +101,7 @@ class FilaCircular {
         return false;
     }
 }
-let fila = new FilaCircular(5);
-8                         
+let fila = new FilaCircular(5);                       
 fila.adicionarElementos(10);
 fila.adicionarElementos(20);
 fila.exibirElementosDaFila
